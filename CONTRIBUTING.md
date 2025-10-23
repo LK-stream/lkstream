@@ -6,6 +6,21 @@ We ❤️ contributions! Whether it’s bug reports, new features, or docs — a
 
 ---
 
+## Table of contents
+
+- [Getting started](#getting-started)
+- [Development environment (FastAPI + WebSocket + Redis)](#development-environment-fastapi--websocket--redis)
+- [Branching & workflow](#branching--workflow)
+- [Coding standards & style](#coding-standards--style)
+- [Testing](#testing)
+- [Linting & pre-commit hooks](#linting--pre-commit-hooks)
+- [Commit messages](#commit-messages)
+- [Pull Request process](#pull-request-process)
+- [Issue reporting template](#issue-reporting-template)
+- [Pull request checklist](#pull-request-checklist)
+- [Code of Conduct](#code-of-conduct)
+- [Thank you](#thank-you)
+
 ## How to Contribute
 
 1. **Fork the repo**  
